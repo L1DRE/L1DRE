@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1DRE&theme=dark&show_icons=true)
 <!--
 **L1DRE/L1DRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

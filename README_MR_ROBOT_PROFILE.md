@@ -1,10 +1,4 @@
-<!-- Mr. Robot‑style GitHub profile README created by ChatGPT -->
-
-<div align="center">
-  <!-- Banner image -->
-  <img src="./d14ae48a-020e-4e54-a851-3299e7b61622.png" alt="Mr. Robot hacker banner" width="800"/>
-</div>
-
+<!-- Mr. Robot‑style GitHub profile README-->
 <h1 align="center">Hello, friend.</h1>
 
 <p align="center">
@@ -116,4 +110,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <p align="center">
   <em>«Мы — то, что делаем. Не бойся нарушать правила, если хочешь изменить мир.»</em>
+</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<p align="center">
+  <em>«Да прибудет с вами сила!»</em>
 </p>

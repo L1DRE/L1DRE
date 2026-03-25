@@ -1,5 +1,9 @@
 <!-- Mr. Robot‑style GitHub profile README-->
-<h1 align="center">Hello, friend.</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hello+friend+;+God+that+'s+always;" />
+</h1>
+<br/>
+<div align="center"> 
 
 <p align="center">
   Добро пожаловать в мой цифровой дневник. Я &nbsp;<strong>gostname</strong> — старший программист‑наставник в <em>FIRST Tech Challenge</em>. 

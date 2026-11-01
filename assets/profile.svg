@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" font-family="'JetBrains Mono','Cascadia Mono','SF Mono',Consolas,'DejaVu Sans Mono','Liberation Mono',Menlo,monospace" role="img" aria-label="L1DRE — профиль, уровень 19">
+<title>L1DRE — профиль, уровень 19</title>
+<style>
+text{white-space:pre}
+.txt{fill:#ececec}.dim{fill:#7d828c}.faint{fill:#2f323a}.mg{fill:#ff2e88}.cy{fill:#00e5ff}.yl{fill:#f4e04d}.gr{fill:#a4d007}
+.b{font-weight:700}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes sweep{from{transform:translateY(-60px)}to{transform:translateY(var(--h))}}
+.sweep{animation:sweep 7s linear infinite}
+
+.ec{opacity:0;animation:ec 4.5s steps(1) infinite}.eo{animation:eo 4.5s steps(1) infinite}
+@keyframes ec{0%{opacity:0}93%{opacity:1}96%{opacity:0}}
+@keyframes eo{0%{opacity:1}93%{opacity:0}96%{opacity:1}}
+.pg1{animation:pg1 5s steps(1) infinite}.pg2{animation:pg2 5s steps(1) infinite}
+@keyframes pg1{0%{opacity:0}70%{opacity:1;transform:translateX(9px)}72%{transform:translateX(-6px)}74%{opacity:0}}
+@keyframes pg2{0%{opacity:0}88%{opacity:1;transform:translateX(-8px)}90%{transform:translateX(5px)}92%{opacity:0}}
+</style>
+<defs>
+<pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".45"/></pattern>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#00e5ff" stop-opacity="0"/><stop offset=".8" stop-color="#00e5ff" stop-opacity=".07"/>
+  <stop offset="1" stop-color="#00e5ff" stop-opacity=".18"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2e88"/><stop offset="1" stop-color="#00e5ff"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+  <feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="pfade" gradientUnits="userSpaceOnUse" x1="0" y1="28" x2="0" y2="272"><stop offset="0" stop-color="#f0f0f0"/><stop offset=".55" stop-color="#b9bcc2"/><stop offset="1" stop-color="#4a4e57"/></linearGradient><clipPath id="pb1"><rect x="26" y="110.96000000000001" width="244" height="21.75"/></clipPath><clipPath id="pb2"><rect x="26" y="193.92000000000002" width="244" height="14.5"/></clipPath><clipPath id="pframe"><rect x="26" y="28" width="244" height="244"/></clipPath></defs>
+
+<defs><linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16181d"/><stop offset="1" stop-color="#050507"/></linearGradient></defs>
+<rect width="840" height="300" fill="url(#pbg)"/>
+<g opacity="0.05"><text x="0.0" y="10.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> &amp;/   :&lt;}      0 :/+-=            %       =&amp;  \ .       1  ] {   %       {1 \  -  [ &gt;  +:0  }  *  =    + =  1] {   { }  [        &lt;]  11 %{/  </text>
+<text x="0.0" y="23.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> { &gt;    &gt;+ #.\% [[    {   0 .[  #    ]   }\&lt; &gt;   &lt;    +-*   ] # =   [    [&gt; &gt;  *  &amp; 1: +  .  &lt;  1  /=    %       \   +    \ 1 .%# &lt; }    &amp;&amp;:+</text>
+<text x="0.0" y="36.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ]1 [   :+  *  * -   [ #     {    +% #1{        0    }   /              % } .*+[// :. :   ] =-      %{+          :.&amp; +-:&lt;  =&lt;    0 {  &amp; &gt; *0</text>
+<text x="0.0" y="49.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     ]  *  ] : +: =      [    % ..  { # &amp;  0 %       % ]  [.&amp;#[  {]  &gt; =0 1   {0   1{&lt; 1] %:  }  ] 1   #&lt;\ :  %*             \      -   1   %</text>
+<text x="0.0" y="62.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      1 }  ]     &gt; {-   +-  [ }    [*  % 0 &gt; /   { [#    :}0*      [    -:{       } &gt;       { -     { &lt;*   &gt;   1= :  &lt;     &amp;    [.  :  - -   </text>
+<text x="0.0" y="75.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">-]        =#        .= *:/    \{ +  %       [=     %   %     1 {% .           =.  =    &gt;  #  +/ [# /  /   0= +&amp;:     }1   0{  .&lt;/&amp;     } &gt;   </text>
+<text x="0.0" y="88.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .     +  {&lt;&gt;  1  &gt;     *   {&gt;  &amp;       &amp;&amp; + /  0}: *   11 :  }:]  - ##  &gt;:- [  1  +    0 .  &gt;] * \&gt; =   &gt;#/  {       +&lt;     . *&lt;         {  </text>
+<text x="0.0" y="101.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    \.        +&gt;  /]  -&lt;- /         #{/* [  +   \   .= .   %{ ]  -  # &amp;{  } \}:%       %&gt;   *       #    *&gt;:  { }  0 :&lt;      {- 0 %    1 \   </text>
+<text x="0.0" y="114.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> /.## *   #1 &gt;     \      \ &lt;*:. =    -    .&lt;=  /        &gt;\   &amp; *  /    +   *      # {[   &lt;-     +   [ /  &gt; \%}  [* \  +   1  #     *   &lt; : /</text>
+<text x="0.0" y="127.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+   = % %1-       \   0-  =*             [-  &gt;&gt;  = } 1+  }+*      +      {]   -%&gt;./ }    /             {%**        ]      * .  [[ ]1   :{/[ {</text>
+<text x="0.0" y="140.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> *1 ]1 \ - * ]  .      &gt;.  +   -  &gt;/  -&amp; ]= &gt; }       /                 [ [+       /  . 0    =  &lt;  \              \  %       .&amp;&gt;:   &lt;1   1 # </text>
+<text x="0.0" y="153.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> *]+/   [          : \   /     %+   #-   ]    0# {    +    }     #   /[   +]    {   =[    1 1   /} { [ }  }    &gt; }=-- %&lt;   -    : &gt;  ] &lt; [ +#</text>
+<text x="0.0" y="166.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    \         =:&lt;- &amp;  [    *  /  -&gt;*  &lt;.  &lt; + : [   -&amp;{\   &amp;     0 - +    # - {  &amp;  ][[. * : */  {     =    %   - :&gt;}   =    0 &lt;/+ {&gt;  *&gt;+  %</text>
+<text x="0.0" y="179.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  : - :     #&lt;    &gt;{     .   ]/%\ - -     \ +     -       0 1[.     [   .  %1 &lt;   ]           *&amp;    :   /+     : &lt;         .        *]{   .\ </text>
+<text x="0.0" y="192.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:/ &amp;==  *   &gt;{].+   &lt;&lt; + -  /]\   :  &gt;&gt;   /&lt;*    } -1  -{ 0  ]  {  &lt;#1  }     &lt;}  +    :  &lt; 1\/ =   /   0:&lt;]   ]\&gt;  }0{  1    : &lt; 1}  .  &lt; #*</text>
+<text x="0.0" y="205.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> =   [ 0 [0 -  }    &amp;%     &gt;    /&amp;    .&lt; ]&gt;.&gt;  *  *  +%  *\-   &gt; 0%-    &lt;&lt;. +.]       . %    -#  [         + &amp;{    %1       %    =   { 1% {# </text>
+<text x="0.0" y="218.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">\  0/       *\    [   ]   \      +  ]{&lt;+&lt;   0%    .      {   .1+&gt;\ &lt;  {     +#     &gt;]  0 {0*  -  [   1.&amp; &gt;=   1        1     .\  ::/ &lt;[ &amp;  ] </text>
+<text x="0.0" y="231.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ]  &gt; *   {  --+ {  *{   *   : .:     *     # .= .  0{ { \ &lt;-] %  :     \ &amp;    -  *   }     &gt; &amp;  *}          :     %     \  &gt;        % +   1</text>
+<text x="0.0" y="244.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   #   1 #]  \   1&amp;\ &lt;:    #     0 =&gt;  1*     { -% 0 =       &gt; &gt;    0&gt; /    &gt;       [ {0&lt;   &lt; &gt;    1\     1/ =  &lt; &gt;  -    / \]              +</text>
+<text x="0.0" y="257.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">}     }       [  \   {+ %   .    { -  &lt;       1  {   %=  } \    #-# :].    1       /+     +  :     [ *  \  &gt;          &gt;/1\  1 [.[   * -   [&amp;.</text>
+<text x="0.0" y="270.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         \ \ 1  ] . /     ] +    [ %  *}    =      &gt;  }    #&lt; [  #  [     /+&lt;&amp;  &amp;   -       }* .  \ -  /= [1-  =}\&amp;\  [  &lt;#  / *  .* ] :+%  =</text>
+<text x="0.0" y="283.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+   [&lt;  [&lt;       1      ] . =     }\]     {&amp; #     +} &amp;      &amp;         \} \&gt;  &gt;  \  / }]\\        { :   }+  - #     1   /  :  }          % [ </text>
+<text x="0.0" y="296.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0 0 + : [  -      *   &gt;   #     - &lt;   &amp;&lt;     1    }1        &amp;      &lt;    &amp;#  \ &lt; &gt;              &gt;-   +    *+\   # % #    &lt;     { ]    % }     </text>
+<text x="0.0" y="309.0" font-size="10" class="txt"  textLength="846.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> &gt;   # = [&amp;    =           / :      [ &gt; &amp;   =   :#    +     /       ++          0%   \ { -  /-%  } = {    [.     = &lt;  *}  {    :    [ - &lt; &amp;[ </text></g>
+<rect x="22" y="24" width="252" height="252" fill="none" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/><rect x="26" y="28" width="244" height="244" fill="#000"/><g clip-path="url(#pframe)"><g fill="#2f323a"><text x="32.0" y="39.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      0      00 0     1   0      0      0           0     </text>
+<text x="32.0" y="47.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     01 01  0       11   10       1  01               0   </text>
+<text x="32.0" y="54.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> 0            0 1    0                          0  0      </text>
+<text x="32.0" y="61.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  1  10        1                                          </text>
+<text x="32.0" y="68.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> 0    1        1                           0  0    1  1   </text>
+<text x="32.0" y="76.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                0                             0           </text>
+<text x="32.0" y="83.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1      0    0                                 0           </text>
+<text x="32.0" y="90.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                1   1     </text>
+<text x="32.0" y="97.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     1 1   0                                       0      </text>
+<text x="32.0" y="105.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        0 0                                      0 1     0</text>
+<text x="32.0" y="112.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0     0  11                                               </text>
+<text x="32.0" y="126.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1   1                                                     </text>
+<text x="32.0" y="134.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     1                                             0      </text>
+<text x="32.0" y="141.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         0                                     0        1 </text>
+<text x="32.0" y="148.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     1                                         01         </text>
+<text x="32.0" y="155.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0          0                                   1 0 0      </text>
+<text x="32.0" y="163.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                       1  </text>
+<text x="32.0" y="170.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">0   1                                         1   1      1</text>
+<text x="32.0" y="177.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                   1000   </text>
+<text x="32.0" y="184.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                     0   1</text>
+<text x="32.0" y="192.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             0                                1     0     </text>
+<text x="32.0" y="199.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">          1 00                             0              </text>
+<text x="32.0" y="206.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         1     0                           0          0   </text>
+<text x="32.0" y="213.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    1                                                     </text>
+<text x="32.0" y="221.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    0                                                   0 </text>
+<text x="32.0" y="228.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                         0</text>
+<text x="32.0" y="235.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1 1                                                      0</text>
+<text x="32.0" y="242.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  1                                                   1  1</text>
+<text x="32.0" y="250.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">01                                                        </text>
+<text x="32.0" y="257.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1                                                         </text>
+<text x="32.0" y="264.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1                                                         </text></g><g fill="url(#pfade)"><text x="32.0" y="54.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                       .,:;-==--:,.                       </text>
+<text x="32.0" y="61.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                     :-+xxxxxxxxx   :.                    </text>
+<text x="32.0" y="68.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                  .:+x#x**++++++**x    .                  </text>
+<text x="32.0" y="76.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                 ,=x#x*++++++++++++**   :                 </text>
+<text x="32.0" y="83.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                :*#x*++++++++++++++++*x   .               </text>
+<text x="32.0" y="90.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               ;*#x*+++++++====++++++++*   .              </text>
+<text x="32.0" y="97.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              :*#x++++++=;:,..,,;-++++++*                 </text>
+<text x="32.0" y="105.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ,+xx*++++=;,        .:=+++++*  :             </text>
+<text x="32.0" y="112.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ;xx*++++-:.           ,-++++*x  .            </text>
+<text x="32.0" y="119.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ,+xx++++=,              ,-++++*  :            </text>
+<text x="32.0" y="126.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            :*#*+++=:................:=+++*  ;            </text>
+<text x="32.0" y="134.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ;xx*+++-,.     ,,,,,     .;+++*x  .           </text>
+<text x="32.0" y="141.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ;xx*+++;.,,      ,      ,.:=++*x  .           </text>
+<text x="32.0" y="148.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ;xx*++=:.,,,,,,,,,,,,,,,,.,=++*x  .           </text>
+<text x="32.0" y="155.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            :*x*++=:.,,,,         ,,,.,=++*               </text>
+<text x="32.0" y="163.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ,+x*++=;.,,,,,,,,,,,,,,,,.:=++*  :            </text>
+<text x="32.0" y="170.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            .-xx*++-,,,,,,,,,,,,,,,,,,;+++x  .            </text>
+<text x="32.0" y="177.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ,+x*++=:.,,,,,,,,,,,,,,.,-++*  :             </text>
+<text x="32.0" y="184.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              ;*x*++-,...............;++*   .             </text>
+<text x="32.0" y="192.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              .-xx*++;.            .;=++x  .              </text>
+<text x="32.0" y="199.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               .;*x*++-,.         ,;=+*   .               </text>
+<text x="32.0" y="206.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                .-*x*++=;,..   .,;=++*  =,                </text>
+<text x="32.0" y="213.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            .,:;--=*xx**++=-;;--=+**   +--;:,.            </text>
+<text x="32.0" y="221.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        .:;--=======++**x*********   +=======--;:.        </text>
+<text x="32.0" y="228.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">       ,-============-;;-=++++++=-;;;============         </text>
+<text x="32.0" y="235.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      ,-============-;:,,,::::::,,,,:-============        </text>
+<text x="32.0" y="242.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     :-=============;::::::,,,,,:::::;-============  .    </text>
+<text x="32.0" y="250.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   .:-=============-::::::::::::::::::-============== .   </text>
+<text x="32.0" y="257.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  .:-=============-;::::::::::::::::::;-============== .  </text>
+<text x="32.0" y="264.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .;===============-::::::::::::::::::::;=============== . </text></g><g fill="#00e5ff" opacity=".85"><text x="32.0" y="61.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                 %@%                      </text>
+<text x="32.0" y="68.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                   %xx#                   </text>
+<text x="32.0" y="76.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                     @#%                  </text>
+<text x="32.0" y="83.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                       @#x                </text>
+<text x="32.0" y="90.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                        %#x               </text>
+<text x="32.0" y="97.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                         x%x              </text>
+<text x="32.0" y="105.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                          %x              </text>
+<text x="32.0" y="112.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                           x@             </text>
+<text x="32.0" y="119.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                           %@             </text>
+<text x="32.0" y="126.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                           #%             </text>
+<text x="32.0" y="134.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                            @x            </text>
+<text x="32.0" y="141.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                            #%            </text>
+<text x="32.0" y="148.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                            x#            </text>
+<text x="32.0" y="155.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                           %#%            </text>
+<text x="32.0" y="163.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                           %x             </text>
+<text x="32.0" y="170.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                           x@             </text>
+<text x="32.0" y="177.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                          x%              </text>
+<text x="32.0" y="184.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                         #@@              </text>
+<text x="32.0" y="192.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                         %x               </text>
+<text x="32.0" y="199.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                       @@#                </text>
+<text x="32.0" y="206.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                      %@                  </text>
+<text x="32.0" y="213.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                    ###                   </text>
+<text x="32.0" y="221.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                  %x#                     </text>
+<text x="32.0" y="228.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                 ##       </text>
+<text x="32.0" y="235.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                  %@      </text>
+<text x="32.0" y="242.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                   x@     </text>
+<text x="32.0" y="250.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                     x    </text>
+<text x="32.0" y="257.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                      x   </text>
+<text x="32.0" y="264.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                                                       @  </text></g><g fill="#ff2e88" filter="url(#glow)"><g class="eo"><text x="32.0" y="134.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                      ▄▄▄▄▄     ▄▄▄▄▄                     </text>
+<text x="32.0" y="141.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                       ▀████▄ ▄████▀                      </text>
+<text x="32.0" y="155.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         ▄▀▄▀▄▀▄▀▄                        </text></g><g class="ec"><text x="32.0" y="141.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                       ▄▄▄▄▄▄ ▄▄▄▄▄▄                      </text>
+<text x="32.0" y="155.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                         ▄▀▄▀▄▀▄▀▄                        </text></g></g><g clip-path="url(#pb1)"><g class="pg1" fill="#ff2e88"><text x="32.0" y="54.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                       .,:;-==--:,.                       </text>
+<text x="32.0" y="61.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                     :-+xxxxxxxxx   :.                    </text>
+<text x="32.0" y="68.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                  .:+x#x**++++++**x    .                  </text>
+<text x="32.0" y="76.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                 ,=x#x*++++++++++++**   :                 </text>
+<text x="32.0" y="83.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                :*#x*++++++++++++++++*x   .               </text>
+<text x="32.0" y="90.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               ;*#x*+++++++====++++++++*   .              </text>
+<text x="32.0" y="97.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              :*#x++++++=;:,..,,;-++++++*                 </text>
+<text x="32.0" y="105.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ,+xx*++++=;,        .:=+++++*  :             </text>
+<text x="32.0" y="112.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ;xx*++++-:.           ,-++++*x  .            </text>
+<text x="32.0" y="119.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ,+xx++++=,              ,-++++*  :            </text>
+<text x="32.0" y="126.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            :*#*+++=:................:=+++*  ;            </text>
+<text x="32.0" y="134.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ;xx*+++-,.     ,,,,,     .;+++*x  .           </text>
+<text x="32.0" y="141.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ;xx*+++;.,,      ,      ,.:=++*x  .           </text>
+<text x="32.0" y="148.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ;xx*++=:.,,,,,,,,,,,,,,,,.,=++*x  .           </text>
+<text x="32.0" y="155.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            :*x*++=:.,,,,         ,,,.,=++*               </text>
+<text x="32.0" y="163.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ,+x*++=;.,,,,,,,,,,,,,,,,.:=++*  :            </text>
+<text x="32.0" y="170.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            .-xx*++-,,,,,,,,,,,,,,,,,,;+++x  .            </text>
+<text x="32.0" y="177.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ,+x*++=:.,,,,,,,,,,,,,,.,-++*  :             </text>
+<text x="32.0" y="184.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              ;*x*++-,...............;++*   .             </text>
+<text x="32.0" y="192.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              .-xx*++;.            .;=++x  .              </text>
+<text x="32.0" y="199.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               .;*x*++-,.         ,;=+*   .               </text>
+<text x="32.0" y="206.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                .-*x*++=;,..   .,;=++*  =,                </text>
+<text x="32.0" y="213.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            .,:;--=*xx**++=-;;--=+**   +--;:,.            </text>
+<text x="32.0" y="221.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        .:;--=======++**x*********   +=======--;:.        </text>
+<text x="32.0" y="228.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">       ,-============-;;-=++++++=-;;;============         </text>
+<text x="32.0" y="235.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      ,-============-;:,,,::::::,,,,:-============        </text>
+<text x="32.0" y="242.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     :-=============;::::::,,,,,:::::;-============  .    </text>
+<text x="32.0" y="250.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   .:-=============-::::::::::::::::::-============== .   </text>
+<text x="32.0" y="257.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  .:-=============-;::::::::::::::::::;-============== .  </text>
+<text x="32.0" y="264.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .;===============-::::::::::::::::::::;=============== . </text></g></g><g clip-path="url(#pb2)"><g class="pg2" fill="#00e5ff"><text x="32.0" y="54.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                       .,:;-==--:,.                       </text>
+<text x="32.0" y="61.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                     :-+xxxxxxxxx   :.                    </text>
+<text x="32.0" y="68.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                  .:+x#x**++++++**x    .                  </text>
+<text x="32.0" y="76.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                 ,=x#x*++++++++++++**   :                 </text>
+<text x="32.0" y="83.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                :*#x*++++++++++++++++*x   .               </text>
+<text x="32.0" y="90.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               ;*#x*+++++++====++++++++*   .              </text>
+<text x="32.0" y="97.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              :*#x++++++=;:,..,,;-++++++*                 </text>
+<text x="32.0" y="105.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ,+xx*++++=;,        .:=+++++*  :             </text>
+<text x="32.0" y="112.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ;xx*++++-:.           ,-++++*x  .            </text>
+<text x="32.0" y="119.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ,+xx++++=,              ,-++++*  :            </text>
+<text x="32.0" y="126.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            :*#*+++=:................:=+++*  ;            </text>
+<text x="32.0" y="134.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ;xx*+++-,.     ,,,,,     .;+++*x  .           </text>
+<text x="32.0" y="141.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ;xx*+++;.,,      ,      ,.:=++*x  .           </text>
+<text x="32.0" y="148.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ;xx*++=:.,,,,,,,,,,,,,,,,.,=++*x  .           </text>
+<text x="32.0" y="155.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            :*x*++=:.,,,,         ,,,.,=++*               </text>
+<text x="32.0" y="163.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ,+x*++=;.,,,,,,,,,,,,,,,,.:=++*  :            </text>
+<text x="32.0" y="170.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            .-xx*++-,,,,,,,,,,,,,,,,,,;+++x  .            </text>
+<text x="32.0" y="177.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">             ,+x*++=:.,,,,,,,,,,,,,,.,-++*  :             </text>
+<text x="32.0" y="184.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              ;*x*++-,...............;++*   .             </text>
+<text x="32.0" y="192.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              .-xx*++;.            .;=++x  .              </text>
+<text x="32.0" y="199.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">               .;*x*++-,.         ,;=+*   .               </text>
+<text x="32.0" y="206.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                .-*x*++=;,..   .,;=++*  =,                </text>
+<text x="32.0" y="213.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            .,:;--=*xx**++=-;;--=+**   +--;:,.            </text>
+<text x="32.0" y="221.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        .:;--=======++**x*********   +=======--;:.        </text>
+<text x="32.0" y="228.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">       ,-============-;;-=++++++=-;;;============         </text>
+<text x="32.0" y="235.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      ,-============-;:,,,::::::,,,,:-============        </text>
+<text x="32.0" y="242.9" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     :-=============;::::::,,,,,:::::;-============  .    </text>
+<text x="32.0" y="250.2" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   .:-=============-::::::::::::::::::-============== .   </text>
+<text x="32.0" y="257.4" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  .:-=============-;::::::::::::::::::;-============== .  </text>
+<text x="32.0" y="264.7" font-size="6.89" class=""  textLength="232.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .;===============-::::::::::::::::::::;=============== . </text></g></g></g><circle cx="264" cy="266" r="9" fill="#050507" stroke="#23262d"/><circle cx="264" cy="266" r="4.5" fill="#a4d007" class="blink"/>
+<text x="302" y="66" font-size="32" class="txt b">L1DRE<tspan font-size="16" class="dim"> ▾</tspan></text>
+<text x="302" y="92" font-size="13" class="dim">Hi, I'm <tspan class="txt">gostname</tspan>  ·  dedsec-node #8864</text>
+<text x="302" y="120" font-size="12" fill="#4a4e57">- - - - - - - - - - -<tspan class="mg"> ○ </tspan>- - - - - - - - - - -</text>
+<text x="302" y="144" font-size="12" class="dim">☾ 08.09.2024 ☽   на GitHub</text>
+<text x="302" y="176" font-size="13"><tspan class="mg">▶ </tspan><tspan class="dim">role  </tspan><tspan class="mg"> ▶ </tspan><tspan class="txt">Lead Programmer</tspan></text>
+<text x="302" y="198" font-size="13"><tspan class="mg">▶ </tspan><tspan class="dim">team  </tspan><tspan class="mg"> ▶ </tspan><tspan class="txt">FIRST Tech Challenge</tspan></text>
+<text x="302" y="220" font-size="13"><tspan class="mg">▶ </tspan><tspan class="dim">stack </tspan><tspan class="mg"> ▶ </tspan><tspan class="txt">Java · C++ · Android SDK</tspan></text>
+
+<text x="604" y="66" font-size="21" class="txt">Уровень</text>
+<circle cx="732" cy="59" r="17" fill="none" stroke="#c02942" stroke-width="2.5"/>
+<text x="732" y="65" font-size="15" class="txt b" text-anchor="middle">19</text>
+<rect x="604" y="96" width="210" height="66" fill="#14161b" stroke="#23262d"/>
+<rect x="612" y="104" width="50" height="50" fill="#000" stroke="#23262d"/>
+<rect x="628" y="110" width="5" height="5" fill="#ececec"/><rect x="633" y="110" width="5" height="5" fill="#ececec"/><rect x="638" y="110" width="5" height="5" fill="#ececec"/><rect x="643" y="110" width="5" height="5" fill="#ececec"/><rect x="623" y="115" width="5" height="5" fill="#ececec"/><rect x="628" y="115" width="5" height="5" fill="#ececec"/><rect x="633" y="115" width="5" height="5" fill="#ececec"/><rect x="638" y="115" width="5" height="5" fill="#ececec"/><rect x="643" y="115" width="5" height="5" fill="#ececec"/><rect x="648" y="115" width="5" height="5" fill="#ececec"/><rect x="618" y="120" width="5" height="5" fill="#ececec"/><rect x="623" y="120" width="5" height="5" fill="#ececec"/><rect x="628" y="120" width="5" height="5" fill="#ececec"/><rect x="633" y="120" width="5" height="5" fill="#ececec"/><rect x="638" y="120" width="5" height="5" fill="#ececec"/><rect x="643" y="120" width="5" height="5" fill="#ececec"/><rect x="648" y="120" width="5" height="5" fill="#ececec"/><rect x="653" y="120" width="5" height="5" fill="#ececec"/><rect x="618" y="125" width="5" height="5" fill="#ececec"/><rect x="633" y="125" width="5" height="5" fill="#ececec"/><rect x="638" y="125" width="5" height="5" fill="#ececec"/><rect x="653" y="125" width="5" height="5" fill="#ececec"/><rect x="618" y="130" width="5" height="5" fill="#ececec"/><rect x="633" y="130" width="5" height="5" fill="#ececec"/><rect x="638" y="130" width="5" height="5" fill="#ececec"/><rect x="653" y="130" width="5" height="5" fill="#ececec"/><rect x="618" y="135" width="5" height="5" fill="#ececec"/><rect x="623" y="135" width="5" height="5" fill="#ececec"/><rect x="628" y="135" width="5" height="5" fill="#ececec"/><rect x="633" y="135" width="5" height="5" fill="#ececec"/><rect x="638" y="135" width="5" height="5" fill="#ececec"/><rect x="643" y="135" width="5" height="5" fill="#ececec"/><rect x="648" y="135" width="5" height="5" fill="#ececec"/><rect x="653" y="135" width="5" height="5" fill="#ececec"/><rect x="623" y="140" width="5" height="5" fill="#ececec"/><rect x="628" y="140" width="5" height="5" fill="#ececec"/><rect x="643" y="140" width="5" height="5" fill="#ececec"/><rect x="648" y="140" width="5" height="5" fill="#ececec"/><rect x="628" y="145" width="5" height="5" fill="#ececec"/><rect x="643" y="145" width="5" height="5" fill="#ececec"/>
+<text x="674" y="124" font-size="13" class="txt">Хакер</text>
+<text x="674" y="144" font-size="12" class="dim">2940 XP</text>
+<rect x="604" y="172" width="182" height="5" fill="#2f323a"/>
+<rect x="604" y="172" width="127" height="5" fill="#c02942"/>
+<text x="604" y="194" font-size="11" class="dim">до ур. 20: 60 XP</text>
+<text x="604" y="236" font-size="19" class="gr">В игре</text>
+<text x="604" y="258" font-size="12" class="gr" opacity=".75">FTC // autonomous.java</text>
+
+<rect class="sweep" style="--h:300px" width="840" height="60" fill="url(#beam)"/><rect width="840" height="300" fill="url(#scan)"/><path d="M6 20 V6 H20" fill="none" stroke="#ff2e88" stroke-width="2"/><path d="M834 20 V6 H820" fill="none" stroke="#00e5ff" stroke-width="2"/><path d="M6 280 V294 H20" fill="none" stroke="#00e5ff" stroke-width="2"/><path d="M834 280 V294 H820" fill="none" stroke="#ff2e88" stroke-width="2"/>
+
+</svg>

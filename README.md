@@ -25,6 +25,7 @@
 
   role ........ главный программист команды FIRST Tech Challenge
   does ........ автономка, траектории, управление системами робота
+  now ......... код робота на сезон BIOBUZZ 2026-27 · автоприцел башни, Shot LUT
   stack ....... Java · C++ · Android SDK · Python
   into ........ алгоритмы, симуляция движения, машинное обучение
   side-ops .... кибербезопасность, геймдев
@@ -47,12 +48,17 @@
   <img src="https://img.shields.io/badge/LINUX-0d0f13?style=for-the-badge&logo=linux&logoColor=ececec" alt="Linux"/>
   <img src="https://img.shields.io/badge/DOCKER-0d0f13?style=for-the-badge&logo=docker&logoColor=00e5ff" alt="Docker"/>
   <img src="https://img.shields.io/badge/ANDROID_STUDIO-0d0f13?style=for-the-badge&logo=androidstudio&logoColor=a4d007" alt="Android Studio"/>
+  <br/>
+  <img src="https://img.shields.io/badge/FTC_SDK-0d0f13?style=for-the-badge&logo=android&logoColor=ff2e88" alt="FTC SDK"/>
+  <img src="https://img.shields.io/badge/PEDRO_PATHING-0d0f13?style=for-the-badge&logoColor=00e5ff" alt="Pedro Pathing"/>
+  <img src="https://img.shields.io/badge/GRADLE-0d0f13?style=for-the-badge&logo=gradle&logoColor=a4d007" alt="Gradle"/>
 </p>
 
 ### `▌ ls ~/ops`
 
 | | операция | что внутри |
 |:-:|---|---|
+| `00` | **Astana-RegionalREPO** 🔒 | код робота сезона BIOBUZZ 2026-27: Java, Pedro Pathing, Pinpoint (приватный) |
 | `01` | [**FTC-integrate-PedroPathing-Visualizer**](https://github.com/L1DRE/FTC-integrate-PedroPathing-Visualizer) | визуализатор траекторий Pedro Pathing для FTC |
 | `02` | [**ftc_fan_rule_site**](https://github.com/L1DRE/ftc_fan_rule_site) | фан-сайт с правилами FTC |
 | `03` | [**Satoshi_FTC_Card**](https://github.com/L1DRE/Satoshi_FTC_Card) | карточка-хаб со ссылками команды |
